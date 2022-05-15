@@ -14,5 +14,5 @@ class TextExporter extends Exporter{
 
 
 
-// $textExporter = new TextExporter(["title"=>"sss","content"=>"CEO @ 7learn"]);
+// $textExporter = new TextExporter(["title"=>"sss","content"=>"kll;"]);
 // $textExporter->export();
