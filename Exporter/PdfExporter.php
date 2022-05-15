@@ -8,5 +8,5 @@ class PdfExporter extends Exporter{
     }
 }
 
-// $obj = new PdfExporter(["title"=>"loghman","content"=>"CEO @ 7learn"]);
+// $obj = new PdfExporter(["title"=>"khlhklh","content"=>"jgftd"]);
 // $obj->export();
