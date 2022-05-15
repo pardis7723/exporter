@@ -6,5 +6,5 @@ class Mp3Exporter extends Exporter{
   
 }
 
-// $obj = new JsonExporter(["title"=>"loghman","content"=>"CEO @ 7learn"]);
+// $obj = new JsonExporter(["title"=>"pari","content"=>"jkjl"]);
 // $obj->export();
